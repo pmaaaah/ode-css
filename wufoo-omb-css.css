@@ -1,0 +1,18 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : 
+ Author : 
+ URL : http://
+
+ Last Updated : 08-25-2014
+
+Remove pagination from first page. 
+- - - - - - - - - - - - - - - - - - - - - */
+
+/* - - - Default - - - */
+
+
+
+#form3.page1 > ul > li.paging-context {
+display: none !important;
+}
